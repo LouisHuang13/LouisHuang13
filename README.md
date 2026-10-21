@@ -8,7 +8,7 @@
 
 ### 🚀 About Me
 
-- 🔬 Currently building and perfecting full-stack web applications using **ASP.NET Core** and **Angular**.
+- 🔬 Currently building and perfecting full-stack web applications using **React** and **ASP.NET**.
 - 💡 Passionate about clean code, **SOLID principles**, robust architecture, and smooth user interfaces.
 - 🎯 Strong focus on end-to-end development: from requirements analysis and UX design to database modeling and deployment.
 - 🌍 Multilingual: French (Native), English (C1), Spanish (B2), Chinese (B2).
