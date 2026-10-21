@@ -1,4 +1,4 @@
-Hi there, I'm Louis Huang! 👋
+#Hi there, I'm Louis Huang! 👋
 
 🎓 Full-Stack Developer & UX Designer | Student in BUT MMI at IUT de Rouen
 
